@@ -1,5 +1,5 @@
 # xcode-flatten-themes
-🎨 Xcode theme based on flat colors
+🎨 Xcode themes based on flat colors
 
 ## Installation
 
@@ -17,11 +17,9 @@ You can search and install these themes using [Alcatraz](http://alcatraz.io/)
  - Copy 'FlattenDark.dvtcolortheme' and/or 'FlattenLight.dvtcolortheme' files into Xcode directory, by using these commands:
 
 
-   ```bash cp FlattenDark.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-    ```
-        
-   ```bash cp FlattenLight.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-   ```
+        cp FlattenDark.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+   
+        cp FlattenLight.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 
 ## Screenshot
