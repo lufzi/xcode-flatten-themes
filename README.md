@@ -7,9 +7,9 @@
 
 You can search and install these themes using [Alcatraz](http://alcatraz.io/)
 
->[Alcatraz](http://alcatraz.io/) is Xcode an open-source package manager. It lets you discover and install plugins, templates, and color schemes without the need for manually cloning or copying files.
+>[Alcatraz](http://alcatraz.io/) is an open-source package manager for Xcode. It lets you discover and install plugins, templates, and color schemes without the need for manually cloning or copying files.
 
-![Flatten-Dark](https://raw.githubusercontent.com/lkmfz/xcode-flatten-themes/master/alcatraz-screenshot.png)
+![Alcatraz-Screenshot](https://raw.githubusercontent.com/lkmfz/xcode-flatten-themes/master/alcatraz-screenshot.png)
 
 
 ### Manual
@@ -24,7 +24,6 @@ You can search and install these themes using [Alcatraz](http://alcatraz.io/)
 and/or
 
         cp FlattenLight.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-
 
 ## Screenshot
 
