@@ -9,25 +9,27 @@ You can search and install these themes using [Alcatraz](http://alcatraz.io/)
 
 >[Alcatraz](http://alcatraz.io/) is an open-source package manager for Xcode. It lets you discover and install plugins, templates, and color schemes without the need for manually cloning or copying files.
 
-![Alcatraz-Screenshot](https://raw.githubusercontent.com/lkmfz/xcode-flatten-themes/master/alcatraz-screenshot.png)
+<h3 align="center">
+   <kbd><img src="alcatraz-screenshot.png" alt="Alcatraz Screenshot" /></kbd>
+</h3>
 
-
-### Manual
-- Download this repo
+### Manually
+- Clone/download this repo
 
 - Open terminal and place your current directory on downloaded folder directory
 
-- Copy '.dvtcolortheme' file(s) into Xcode directory, by using these commands:
-
+- Copy '.dvtcolortheme' file(s) into Xcode directory:
 
         cp FlattenDark.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-and/or
-
         cp FlattenLight.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
-## Screenshot
+## Screenshots
 
 ### Dark ⚫️
-![Flatten-Dark](https://raw.githubusercontent.com/lkmfz/xcode-flatten-themes/master/flatten-dark.png)
+<h3 align="center">
+   <kbd><img src="flatten-dark.png" alt="Dark Flatten" /></kbd>
+</h3>
 ### Light ⚪️
-![Flatten-Light](https://raw.githubusercontent.com/lkmfz/xcode-flatten-themes/master/flatten-light.png)
+<h3 align="center">
+   <kbd><img src="flatten-light.png" alt="Light Flatten" /></kbd>
+</h3>
